@@ -1,0 +1,1081 @@
+{
+    "map_size": [
+        20,
+        20
+    ],
+    "game_objects": [
+        {
+            "position": [
+                2.5689999999999977,
+                0.05300000000000049
+            ],
+            "direction": "Right",
+            "game_object_type": "Tank",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 104,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "98740ca0-6df8-4cdd-99cc-d0e187a93821"
+        },
+        {
+            "position": [
+                1,
+                9
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "401de76f-05d8-4437-95dc-4e0f933750d9"
+        },
+        {
+            "position": [
+                1,
+                10
+            ],
+            "direction": "Up",
+            "game_object_type": "Forest",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "b95cbd68-6642-460b-add1-997d5937a0a6"
+        },
+        {
+            "position": [
+                1,
+                15
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "92ffd339-1a73-4f37-b01c-b1b92b875400"
+        },
+        {
+            "position": [
+                2,
+                10
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "694b9a08-a95e-414d-805d-09a64f00cd4b"
+        },
+        {
+            "position": [
+                2,
+                12
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "23d3dba9-bac8-47fc-b014-513294cb05d5"
+        },
+        {
+            "position": [
+                2,
+                13
+            ],
+            "direction": "Up",
+            "game_object_type": "Forest",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "4de5d915-f701-4175-8203-5e62e5f85d49"
+        },
+        {
+            "position": [
+                3,
+                9
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "a0aa19ee-ae1e-4083-99fa-49225be02281"
+        },
+        {
+            "position": [
+                3,
+                10
+            ],
+            "direction": "Up",
+            "game_object_type": "Forest",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "0fc2bbaa-38b0-4a1f-ba38-dbde36303ecb"
+        },
+        {
+            "position": [
+                3,
+                17
+            ],
+            "direction": "Up",
+            "game_object_type": "Forest",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "f0a69662-14ca-499c-b866-8901fd7a2f2c"
+        },
+        {
+            "position": [
+                3,
+                19
+            ],
+            "direction": "Up",
+            "game_object_type": "Forest",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "3f9bac80-4ee9-4ba7-825c-99d90e90a43f"
+        },
+        {
+            "position": [
+                4,
+                4
+            ],
+            "direction": "Up",
+            "game_object_type": "Brick",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "147882e7-f624-4b1b-9324-8f5097afafff"
+        },
+        {
+            "position": [
+                4,
+                8
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "aeae15c0-4af7-482a-9b6b-195f828b1571"
+        },
+        {
+            "position": [
+                4,
+                19
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "5a8c431a-f211-42c9-8a08-dd8ee3dbf893"
+        },
+        {
+            "position": [
+                5,
+                1
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "d7d2682e-cfc4-4e2f-811c-6958dd6d61f4"
+        },
+        {
+            "position": [
+                5,
+                19
+            ],
+            "direction": "Up",
+            "game_object_type": "Brick",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "a6e216fe-6227-4bd9-be88-98e7cc9260d8"
+        },
+        {
+            "position": [
+                6,
+                0
+            ],
+            "direction": "Up",
+            "game_object_type": "Brick",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "e51b4acc-2e37-4488-9c7d-8fff37417d99"
+        },
+        {
+            "position": [
+                6,
+                1
+            ],
+            "direction": "Up",
+            "game_object_type": "Brick",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "bcc37a6a-faf6-4fad-b7b0-414fd4820c46"
+        },
+        {
+            "position": [
+                6,
+                6
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "7df7ce9d-35cf-47fb-a619-3e4bb15c251b"
+        },
+        {
+            "position": [
+                6,
+                17
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "aca418e8-1925-457b-9944-5d3a3a856f54"
+        },
+        {
+            "position": [
+                7,
+                6
+            ],
+            "direction": "Up",
+            "game_object_type": "Forest",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "7c3f6e34-6c41-47ec-80eb-415c5bb36cf1"
+        },
+        {
+            "position": [
+                7,
+                7
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "d7c2129c-c4a2-4ffb-9f67-3ed5c32c6a0f"
+        },
+        {
+            "position": [
+                7,
+                14
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "1c6cd86e-fd26-4bc9-ab10-ece03bd04544"
+        },
+        {
+            "position": [
+                7,
+                18
+            ],
+            "direction": "Up",
+            "game_object_type": "Brick",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "838b6ca1-1c5b-499c-8ef5-b98d96f4ba4d"
+        },
+        {
+            "position": [
+                8,
+                5
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "1bb8c419-500f-43f3-a240-5c2e732e7427"
+        },
+        {
+            "position": [
+                8,
+                7
+            ],
+            "direction": "Up",
+            "game_object_type": "Forest",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "2c3f0b5a-1b0e-4b67-a6db-5e5591142366"
+        },
+        {
+            "position": [
+                8,
+                12
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "99adf46e-0713-4d1b-8015-1562373533e3"
+        },
+        {
+            "position": [
+                9,
+                11
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "b2147782-92c1-482a-a2aa-daf5a914867d"
+        },
+        {
+            "position": [
+                10,
+                1
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "c781b4f5-92e8-4d09-9efc-57d148886099"
+        },
+        {
+            "position": [
+                10,
+                4
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "34db114f-e7b0-4720-8f85-e7fd445aa321"
+        },
+        {
+            "position": [
+                10,
+                8
+            ],
+            "direction": "Up",
+            "game_object_type": "Forest",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "6b11e7bb-7e0f-4eba-a1f4-763522d54723"
+        },
+        {
+            "position": [
+                10,
+                18
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "6317422b-ee86-4c06-804f-94242cc68bef"
+        },
+        {
+            "position": [
+                11,
+                3
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "d9945f6b-b42d-4c3a-8733-c18bfd1d7eb7"
+        },
+        {
+            "position": [
+                11,
+                7
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "0da121c5-fffd-4238-9c46-43ca59c4eefd"
+        },
+        {
+            "position": [
+                11,
+                8
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "e4e0076c-b56a-4075-8119-d17624271ba3"
+        },
+        {
+            "position": [
+                12,
+                9
+            ],
+            "direction": "Up",
+            "game_object_type": "Brick",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "9b01dbba-9edd-4aa0-a945-9c885698bde8"
+        },
+        {
+            "position": [
+                12,
+                11
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "5f27c7c7-fb39-4185-9b01-06d5edf249ad"
+        },
+        {
+            "position": [
+                12,
+                16
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "9b2bc98f-c369-4805-96b5-014bb154c2b0"
+        },
+        {
+            "position": [
+                12,
+                18
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "6365645c-9ed0-4c56-805b-13fbe968e815"
+        },
+        {
+            "position": [
+                13.55100000000001,
+                18.996999999999996
+            ],
+            "direction": "Left",
+            "game_object_type": "Enemy",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 1184,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "96d98b6e-8a9b-42b2-9da2-a980a2030ed1"
+        },
+        {
+            "position": [
+                13,
+                1
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "e919c1af-10ac-405c-88ae-c1d225ac9911"
+        },
+        {
+            "position": [
+                13,
+                4
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "3ebcf41b-cd72-45dd-a85d-9c9812b31f3a"
+        },
+        {
+            "position": [
+                13,
+                5
+            ],
+            "direction": "Up",
+            "game_object_type": "Forest",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "2451f7d6-eae1-40f0-8928-ddc6d5e7624e"
+        },
+        {
+            "position": [
+                13,
+                11
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "66254a28-c665-4e38-8987-22ef68a921f8"
+        },
+        {
+            "position": [
+                13,
+                18
+            ],
+            "direction": "Up",
+            "game_object_type": "Brick",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "446639ad-94a7-4da7-a35f-6219af84787a"
+        },
+        {
+            "position": [
+                14,
+                0
+            ],
+            "direction": "Up",
+            "game_object_type": "Forest",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "f6683f2f-2203-489f-8be1-bf9b20bfab25"
+        },
+        {
+            "position": [
+                14,
+                4
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "6ccf84f4-4598-47ac-870a-d5c07cbae490"
+        },
+        {
+            "position": [
+                15,
+                9
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "f44b8b6e-6b36-4efb-b8b1-4c0d45b6c06d"
+        },
+        {
+            "position": [
+                15,
+                15
+            ],
+            "direction": "Up",
+            "game_object_type": "Forest",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "e0346fd0-3d5a-4ebd-9974-162264a4346a"
+        },
+        {
+            "position": [
+                15,
+                16
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "f3b04dc6-e765-44b4-ad3a-2705213049ae"
+        },
+        {
+            "position": [
+                16,
+                0
+            ],
+            "direction": "Up",
+            "game_object_type": "Forest",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "6e93fc6e-93a5-49f3-9ba5-a9c3a09a4a83"
+        },
+        {
+            "position": [
+                16,
+                18
+            ],
+            "direction": "Up",
+            "game_object_type": "Brick",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "22e86844-d27e-440b-8552-ce7e3f570bc4"
+        },
+        {
+            "position": [
+                17,
+                2
+            ],
+            "direction": "Up",
+            "game_object_type": "Forest",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "086f2314-1878-4d00-839d-744ad28b78f6"
+        },
+        {
+            "position": [
+                17,
+                4
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "847f8e9f-c641-4bee-8985-e03040caadc6"
+        },
+        {
+            "position": [
+                13.95800000000005,
+                12.100999999999981
+            ],
+            "direction": "NotSet",
+            "game_object_type": "Enemy",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 116,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "220fd6f1-b66c-4a14-9897-8c41162c624d"
+        },
+        {
+            "position": [
+                17,
+                7
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "865b66ec-3677-4a27-b52d-c8aee9c0fb0b"
+        },
+        {
+            "position": [
+                18,
+                10
+            ],
+            "direction": "Up",
+            "game_object_type": "Water",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 1,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 398,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": true,
+            "object_uuid": "ad44bee0-19ee-4f70-9b05-260a3fe1541d"
+        },
+        {
+            "position": [
+                18,
+                15
+            ],
+            "direction": "Up",
+            "game_object_type": "Forest",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "ebccd634-2d25-4b59-b635-27b1d5c20a65"
+        },
+        {
+            "position": [
+                19,
+                1
+            ],
+            "direction": "Up",
+            "game_object_type": "Steel",
+            "tank_level": 0,
+            "movement_speed": 0.001,
+            "tank_next_move_time": 0.0,
+            "animation_frame": 0,
+            "animation_frame_max": 2,
+            "animation_frame_duration": 0.0,
+            "animation_frame_duration_max": 500.0,
+            "animation_is_animating": false,
+            "object_uuid": "ab996eb9-d710-437f-a8e1-c9681b647266"
+        },
+        {
+            "position": [
+                12.985,
+                3.047999999999995
+            ],
+            "direction": "NotSet",
+            "game_object_type": "Bullet",
+            "tank_level": 0,
+            "movement_speed": 0.002,
+            "tank_next_move_time": 0,
+            "animation_frame": 0,
+            "animation_frame_max": 0,
+            "animation_frame_duration": 0,
+            "animation_frame_duration_max": 0,
+            "animation_is_animating": true,
+            "object_uuid": "b0ed1576-0f65-4c11-8f21-af5d9d4c21dd"
+        },
+        {
+            "position": [
+                16.94999999999999,
+                17.0
+            ],
+            "direction": "NotSet",
+            "game_object_type": "Bullet",
+            "tank_level": 0,
+            "movement_speed": 0.002,
+            "tank_next_move_time": 0,
+            "animation_frame": 0,
+            "animation_frame_max": 0,
+            "animation_frame_duration": 0,
+            "animation_frame_duration_max": 0,
+            "animation_is_animating": true,
+            "object_uuid": "536ce224-fbcb-49d7-b57e-b5c84226f808"
+        },
+        {
+            "position": [
+                5.313999999999997,
+                16.031000000000002
+            ],
+            "direction": "NotSet",
+            "game_object_type": "Bullet",
+            "tank_level": 0,
+            "movement_speed": 0.002,
+            "tank_next_move_time": 0,
+            "animation_frame": 0,
+            "animation_frame_max": 0,
+            "animation_frame_duration": 0,
+            "animation_frame_duration_max": 0,
+            "animation_is_animating": true,
+            "object_uuid": "03d18332-e1fd-472b-8d68-d23579d96e80"
+        },
+        {
+            "position": [
+                15.57900000000004,
+                9.951999999999984
+            ],
+            "direction": "NotSet",
+            "game_object_type": "Bullet",
+            "tank_level": 0,
+            "movement_speed": 0.002,
+            "tank_next_move_time": 0,
+            "animation_frame": 0,
+            "animation_frame_max": 0,
+            "animation_frame_duration": 0,
+            "animation_frame_duration_max": 0,
+            "animation_is_animating": true,
+            "object_uuid": "9f60c213-e2f8-4552-990a-c99fa32b1917"
+        }
+    ],
+    "level": 0,
+    "score": 6
+}

@@ -1,0 +1,23 @@
+{
+    "player_name": "Player",
+    "high_scores": {
+        "high_scores": [
+            {
+                "name": "dfd",
+                "score": 3
+            },
+            {
+                "name": "gg",
+                "score": 12
+            },
+            {
+                "name": "ss",
+                "score": 12
+            },
+            {
+                "name": "trtr",
+                "score": 4
+            }
+        ]
+    }
+}
